@@ -33,7 +33,4 @@ def apply_rule(protocol, port, src_ip="0.0.0.0"):
 
     log_event("WARNING", "BLOCK", protocol, port, "NO MATCH")
     return "BLOCK" 
-
-Editting for contribution 
-Editing for contribution
  
