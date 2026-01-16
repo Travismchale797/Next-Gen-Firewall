@@ -1,1 +1,12 @@
+[Unit]
+Description=NGFW Python Daemon
+After=network.target suricata.service
+
+[Service]
+ExecStart=/usr/bin/python3 /home/vboxuser/Capstone\ Project/daemon.py
+Restart=always
+User=root
+
+[Install]
+WantedBy=multi-user.target
 
