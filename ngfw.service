@@ -8,5 +8,5 @@ Restart=always
 User=root
 
 [Install]
-WantedBy=multi-user.target
+WantedBy=multi-user.target tesgin testing 
 
