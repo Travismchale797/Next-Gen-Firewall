@@ -8,7 +8,7 @@ The goal of this project is to simulate a blue-team / SOC workflow:
 - parsing and triage of alerts
 - automated enforcement using firewall rules
 - audit logging for validation and reporting
-te
+
 ---
 
 ## Features
