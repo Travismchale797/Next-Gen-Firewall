@@ -7,7 +7,7 @@ The goal of this project is to simulate a blue-team / SOC workflow:
 - detection via IDS (Suricata)
 - parsing and triage of alerts
 - automated enforcement using firewall rules
-- audit logging for validation and reporting tes
+- audit logging for validation and reporting 
 
 ---
 
